@@ -221,3 +221,18 @@ Business Analyst
 - Agile / Scrum
 - Sprint Planning
 
+## Jira Screenshots
+
+### Backlog View
+![Backlog View](Jira%20Board%20Screenshots/Backlog.png)
+
+### Sprint Board
+![Sprint Board](Jira%20Board%20Screenshots/Board.png)
+
+### Project Reports
+![Report 1](Jira%20Board%20Screenshots/Reports%201.png)
+
+![Report 2](Jira%20Board%20Screenshots/Reports%202.png)
+
+![Report 3](Jira%20Board%20Screenshots/Reports%203.png)
+
